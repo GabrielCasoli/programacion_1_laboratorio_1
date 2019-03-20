@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553039828 source:d:\casoligabriel\swith char\main.c
+	<stdio.h>
+	<stdlib.h>
+
