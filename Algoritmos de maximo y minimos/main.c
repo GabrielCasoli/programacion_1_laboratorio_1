@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <ctype.h>
+#include <ctype.h> //se agrega cuando se utiliza rta=toupper(rta);
 int main(){
     //int contador=0;
     //int acumulador=0;
