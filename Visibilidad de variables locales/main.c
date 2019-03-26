@@ -12,6 +12,6 @@ printf("%d",var);
 }
 void carga(void)
 {
-int var;//a nivel local en este punto se crea otra variable.
-var=3;
+int var;//a nivel local en este punto se crea otra variable
+var=3;  //que aunque se llame igual ocupa otra direccion de memoria.
 }
